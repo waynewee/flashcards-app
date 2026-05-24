@@ -11,7 +11,7 @@ export const Flashcard = ({
     <div>
       <div style={{ height: 500, width: "100%" }}>
         <img
-          src={`${image}.png`}
+          src={`https://waynewee.com/${image}.png`}
           alt={word}
           style={{ width: "100%", height: "100%", objectFit: "contain" }}
         />
