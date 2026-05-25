@@ -22,17 +22,17 @@ export const Flashcard = ({
       </div>
       <div className="words">
         <div className="row">
-          <img className="icon" src={"/gb.svg"} />
+          <img className="icon" src={`${import.meta.env.BASE_URL}/gb.svg`} />
           <div className="word english">{englishWord}</div>
         </div>
 
         <div className="row">
-          <img className="icon" src={"/my.svg"} />
+          <img className="icon" src={`${import.meta.env.BASE_URL}/my.svg`} />
           <div className="word malay">{malayWord}</div>
         </div>
 
         <div className="row">
-          <img className="icon" src={"/in.svg"} />
+          <img className="icon" src={`${import.meta.env.BASE_URL}/in.svg`} />
           <div>
             <div className="word tamil">{tamilWord}</div>
             <div className="romanization">{tamilRomanization}</div>
@@ -40,7 +40,7 @@ export const Flashcard = ({
         </div>
 
         <div className="row">
-          <img className="icon" src={"/cn.svg"} />
+          <img className="icon" src={`${import.meta.env.BASE_URL}/cn.svg`} />
           <div>
             <div className="word chinese">{chineseWord}</div>
             <div className="pinyin">{chinesePinyin}</div>
