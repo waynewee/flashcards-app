@@ -1,5 +1,4 @@
 .flashcard {
-  font-family: "Noto Sans", sans-serif;
   aspect-ratio: 3 / 4.6;
   background: #f7f4ea;
   border-radius: 32px;
@@ -22,6 +21,7 @@
   width: 100%;
   display: grid;
   gap: 12px;
+  flex-grow: 1;
 }
 
 .row {

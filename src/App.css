@@ -1,4 +1,5 @@
 html,
 body {
   overscroll-behavior: none;
+  font-family: "Noto Sans", sans-serif;
 }

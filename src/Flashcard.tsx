@@ -10,7 +10,10 @@ export const Flashcard = ({
   chineseWord,
   chinesePinyin,
   imageKey,
-}: Data) => {
+  selectedLanguages,
+}: Data & {
+  selectedLanguages?: string[];
+}) => {
   return (
     <div className="flashcard">
       <div id="image-container" style={{ height: "40vh", width: "100%" }}>
@@ -21,31 +24,39 @@ export const Flashcard = ({
         />
       </div>
       <div className="words">
-        <div className="row">
-          <img className="icon" src={`${import.meta.env.BASE_URL}/gb.svg`} />
-          <div className="word english">{englishWord}</div>
-        </div>
-
-        <div className="row">
-          <img className="icon" src={`${import.meta.env.BASE_URL}/my.svg`} />
-          <div className="word malay">{malayWord}</div>
-        </div>
-
-        <div className="row">
-          <img className="icon" src={`${import.meta.env.BASE_URL}/in.svg`} />
-          <div>
-            <div className="word tamil">{tamilWord}</div>
-            <div className="romanization">{tamilRomanization}</div>
+        {selectedLanguages?.includes("english") && (
+          <div className="row">
+            <img className="icon" src={`${import.meta.env.BASE_URL}gb.svg`} />
+            <div className="word english">{englishWord}</div>
           </div>
-        </div>
+        )}
 
-        <div className="row">
-          <img className="icon" src={`${import.meta.env.BASE_URL}/cn.svg`} />
-          <div>
-            <div className="word chinese">{chineseWord}</div>
-            <div className="pinyin">{chinesePinyin}</div>
+        {selectedLanguages?.includes("malay") && (
+          <div className="row">
+            <img className="icon" src={`${import.meta.env.BASE_URL}my.svg`} />
+            <div className="word malay">{malayWord}</div>
           </div>
-        </div>
+        )}
+
+        {selectedLanguages?.includes("tamil") && (
+          <div className="row">
+            <img className="icon" src={`${import.meta.env.BASE_URL}in.svg`} />
+            <div>
+              <div className="word tamil">{tamilWord}</div>
+              <div className="romanization">{tamilRomanization}</div>
+            </div>
+          </div>
+        )}
+
+        {selectedLanguages?.includes("chinese") && (
+          <div className="row">
+            <img className="icon" src={`${import.meta.env.BASE_URL}cn.svg`} />
+            <div>
+              <div className="word chinese">{chineseWord}</div>
+              <div className="pinyin">{chinesePinyin}</div>
+            </div>
+          </div>
+        )}
       </div>
     </div>
   );

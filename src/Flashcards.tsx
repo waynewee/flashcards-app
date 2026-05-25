@@ -5,7 +5,11 @@ import { Flashcard } from "./Flashcard.tsx";
 
 import { useSwipeable } from "react-swipeable";
 
-export const Flashcards = () => {
+export const Flashcards = ({
+  selectedLanguages,
+}: {
+  selectedLanguages?: string[];
+}) => {
   const [activeIndex, setActiveIndex] = useState(0);
 
   const next = () => {
@@ -48,7 +52,7 @@ export const Flashcards = () => {
         display: "flex",
         flexDirection: "column",
         alignItems: "center",
-        height: "98vh",
+        height: "90vh",
         justifyContent: "center",
         overflow: "hidden",
       }}
@@ -67,7 +71,7 @@ export const Flashcards = () => {
             left: 0,
             top: 0,
             bottom: 0,
-            width: "50%",
+            width: "20%",
           }}
           onClick={prev}
         />
@@ -78,11 +82,15 @@ export const Flashcards = () => {
             right: 0,
             top: 0,
             bottom: 0,
-            width: "50%",
+            width: "20%",
           }}
           onClick={next}
         />
-        <Flashcard key={data[activeIndex].imageKey} {...data[activeIndex]} />
+        <Flashcard
+          key={data[activeIndex].imageKey}
+          {...data[activeIndex]}
+          selectedLanguages={selectedLanguages}
+        />
       </div>
     </div>
   );
