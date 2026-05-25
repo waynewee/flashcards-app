@@ -32,11 +32,6 @@ export default function Settings({ selectedLanguages, onChange }: Props) {
     const next = has
       ? selectedLanguages.filter((l) => l !== lang)
       : [...selectedLanguages, lang];
-    if (next.length === 0) {
-      alert("At least one language must be selected");
-      // prevent unselecting all languages
-      return;
-    }
     onChange(next);
     try {
       localStorage.setItem("selectedLanguages", JSON.stringify(next));
@@ -59,7 +54,11 @@ export default function Settings({ selectedLanguages, onChange }: Props) {
         ) : null;
       })
       .filter(Boolean);
-    return <div className="settings-flag-selected-container">{flags}</div>;
+    return (
+      <div className="settings-flag-selected-container">
+        {flags.length > 0 ? flags : "Languages"}
+      </div>
+    );
   };
 
   return (

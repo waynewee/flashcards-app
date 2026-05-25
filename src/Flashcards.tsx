@@ -64,28 +64,6 @@ export const Flashcards = ({
         onKeyDown={handleKeyDown}
         style={{ outline: "none" }}
       >
-        <div
-          id="left-touch-area"
-          style={{
-            position: "absolute",
-            left: 0,
-            top: 0,
-            bottom: 0,
-            width: "20%",
-          }}
-          onClick={prev}
-        />
-        <div
-          id="right-touch-area"
-          style={{
-            position: "absolute",
-            right: 0,
-            top: 0,
-            bottom: 0,
-            width: "20%",
-          }}
-          onClick={next}
-        />
         <Flashcard
           key={data[activeIndex].imageKey}
           {...data[activeIndex]}
