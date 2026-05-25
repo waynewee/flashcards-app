@@ -13,7 +13,7 @@ export const Flashcard = ({
 }: Data) => {
   return (
     <div className="flashcard">
-      <div id="image-container" style={{ height: 500, width: "100%" }}>
+      <div id="image-container" style={{ height: "40vh", width: "100%" }}>
         <img
           src={`${imageBaseUrl}/${imageKey}.png`}
           alt={englishWord}
