@@ -1,25 +1,52 @@
+import type { Data } from "./data";
+import { imageBaseUrl } from "./config";
+import "./Flashcard.css";
+
 export const Flashcard = ({
-  word,
-  romanizedWord,
-  image,
-}: {
-  word: string;
-  romanizedWord: string;
-  image: string;
-}) => {
+  englishWord,
+  tamilRomanization,
+  tamilWord,
+  malayWord,
+  chineseWord,
+  chinesePinyin,
+  imageKey,
+}: Data) => {
   return (
-    <div>
-      <div style={{ height: 500, width: "100%" }}>
+    <div className="flashcard">
+      <div id="image-container" style={{ height: 500, width: "100%" }}>
         <img
-          src={`https://waynewee.com/${image}.png`}
-          alt={word}
+          src={`${imageBaseUrl}/${imageKey}.png`}
+          alt={englishWord}
           style={{ width: "100%", height: "100%", objectFit: "contain" }}
         />
       </div>
-      <h2 style={{ textAlign: "center" }}>{romanizedWord}</h2>
-      <h2 style={{ textAlign: "center" }}>{word}</h2>
+      <div className="words">
+        <div className="row">
+          <img className="icon" src={"/gb.svg"} />
+          <div className="word english">{englishWord}</div>
+        </div>
+
+        <div className="row">
+          <img className="icon" src={"/my.svg"} />
+          <div className="word malay">{malayWord}</div>
+        </div>
+
+        <div className="row">
+          <img className="icon" src={"/in.svg"} />
+          <div>
+            <div className="word tamil">{tamilWord}</div>
+            <div className="romanization">{tamilRomanization}</div>
+          </div>
+        </div>
+
+        <div className="row">
+          <img className="icon" src={"/cn.svg"} />
+          <div>
+            <div className="word chinese">{chineseWord}</div>
+            <div className="pinyin">{chinesePinyin}</div>
+          </div>
+        </div>
+      </div>
     </div>
   );
 };
-
-export default Flashcard;

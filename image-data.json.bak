@@ -1,0 +1,749 @@
+[
+    {
+        "imageKey": "apple",
+        "englishWord": "Apple",
+        "tamilWord": "ஆப்பிள்",
+        "tamilRomanization": "aappil",
+        "chineseWord": "苹果",
+        "chinesePinyin": "2ping 3guo",
+        "category": "fruit"
+    },
+    {
+        "imageKey": "banana",
+        "englishWord": "Banana",
+        "tamilWord": "வாழைப்பழம்",
+        "tamilRomanization": "vaazhaipazham",
+        "chineseWord": "香蕉",
+        "chinesePinyin": "1xiang 1jiao",
+        "category": "fruit"
+    },
+    {
+        "imageKey": "orange",
+        "englishWord": "Orange",
+        "tamilWord": "ஆரஞ்சு",
+        "tamilRomanization": "aaranju",
+        "chineseWord": "橙子",
+        "chinesePinyin": "2cheng 5zi",
+        "category": "fruit"
+    },
+    {
+        "imageKey": "mango",
+        "englishWord": "Mango",
+        "tamilWord": "மாம்பழம்",
+        "tamilRomanization": "maampazham",
+        "chineseWord": "芒果",
+        "chinesePinyin": "2mang 3guo",
+        "category": "fruit"
+    },
+    {
+        "imageKey": "grapes",
+        "englishWord": "Grapes",
+        "tamilWord": "திராட்சை",
+        "tamilRomanization": "thiraatchai",
+        "chineseWord": "葡萄",
+        "chinesePinyin": "2pu 2tao",
+        "category": "fruit"
+    },
+    {
+        "imageKey": "watermelon",
+        "englishWord": "Watermelon",
+        "tamilWord": "தர்பூசணி",
+        "tamilRomanization": "tharpoosani",
+        "chineseWord": "西瓜",
+        "chinesePinyin": "1xi 1gua",
+        "category": "fruit"
+    },
+    {
+        "imageKey": "pineapple",
+        "englishWord": "Pineapple",
+        "tamilWord": "அன்னாசிப்பழம்",
+        "tamilRomanization": "annaasipazham",
+        "chineseWord": "菠萝",
+        "chinesePinyin": "1bo 2luo",
+        "category": "fruit"
+    },
+    {
+        "imageKey": "strawberry",
+        "englishWord": "Strawberry",
+        "tamilWord": "ஸ்ட்ராபெரி",
+        "tamilRomanization": "strawberry",
+        "chineseWord": "草莓",
+        "chinesePinyin": "3cao 2mei",
+        "category": "fruit"
+    },
+    {
+        "imageKey": "blueberry",
+        "englishWord": "Blueberry",
+        "tamilWord": "ப்ளூபெரி",
+        "tamilRomanization": "blueberry",
+        "chineseWord": "蓝莓",
+        "chinesePinyin": "2lan 2mei",
+        "category": "fruit"
+    },
+    {
+        "imageKey": "pear",
+        "englishWord": "Pear",
+        "tamilWord": "பேரிக்காய்",
+        "tamilRomanization": "perikkai",
+        "chineseWord": "梨",
+        "chinesePinyin": "2li",
+        "category": "fruit"
+    },
+    {
+        "imageKey": "peach",
+        "englishWord": "Peach",
+        "tamilWord": "பீச்",
+        "tamilRomanization": "peech",
+        "chineseWord": "桃子",
+        "chinesePinyin": "2tao 5zi",
+        "category": "fruit"
+    },
+    {
+        "imageKey": "cherry",
+        "englishWord": "Cherry",
+        "tamilWord": "செர்ரி",
+        "tamilRomanization": "cherry",
+        "chineseWord": "樱桃",
+        "chinesePinyin": "1ying 2tao",
+        "category": "fruit"
+    },
+    {
+        "imageKey": "lemon",
+        "englishWord": "Lemon",
+        "tamilWord": "எலுமிச்சை",
+        "tamilRomanization": "elumichchai",
+        "chineseWord": "柠檬",
+        "chinesePinyin": "2ning 2meng",
+        "category": "fruit"
+    },
+    {
+        "imageKey": "lime",
+        "englishWord": "Lime",
+        "tamilWord": "பச்சை எலுமிச்சை",
+        "tamilRomanization": "pachchai elumichchai",
+        "chineseWord": "青柠",
+        "chinesePinyin": "1qing 2ning",
+        "category": "fruit"
+    },
+    {
+        "imageKey": "kiwi",
+        "englishWord": "Kiwi",
+        "tamilWord": "கிவி",
+        "tamilRomanization": "kiwi",
+        "chineseWord": "猕猴桃",
+        "chinesePinyin": "2mi 2hou 2tao",
+        "category": "fruit"
+    },
+    {
+        "imageKey": "coconut",
+        "englishWord": "Coconut",
+        "tamilWord": "தேங்காய்",
+        "tamilRomanization": "thengai",
+        "chineseWord": "椰子",
+        "chinesePinyin": "2ye 5zi",
+        "category": "fruit"
+    },
+    {
+        "imageKey": "papaya",
+        "englishWord": "Papaya",
+        "tamilWord": "பப்பாளிப்பழம்",
+        "tamilRomanization": "pappaalippazham",
+        "chineseWord": "木瓜",
+        "chinesePinyin": "4mu 1gua",
+        "category": "fruit"
+    },
+    {
+        "imageKey": "guava",
+        "englishWord": "Guava",
+        "tamilWord": "கொய்யாப்பழம்",
+        "tamilRomanization": "koyyaappazham",
+        "chineseWord": "番石榴",
+        "chinesePinyin": "1fan 2shi 2liu",
+        "category": "fruit"
+    },
+    {
+        "imageKey": "dragon-fruit",
+        "englishWord": "Dragon Fruit",
+        "tamilWord": "டிராகன் பழம்",
+        "tamilRomanization": "dragon pazham",
+        "chineseWord": "火龙果",
+        "chinesePinyin": "3huo 2long 3guo",
+        "category": "fruit"
+    },
+    {
+        "imageKey": "lychee",
+        "englishWord": "Lychee",
+        "tamilWord": "லிச்சி",
+        "tamilRomanization": "lichchi",
+        "chineseWord": "荔枝",
+        "chinesePinyin": "4li 1zhi",
+        "category": "fruit"
+    },
+    {
+        "imageKey": "car",
+        "englishWord": "Car",
+        "tamilWord": "கார்",
+        "tamilRomanization": "kaar",
+        "chineseWord": "汽车",
+        "chinesePinyin": "4qi 1che",
+        "category": "vehicle"
+    },
+    {
+        "imageKey": "bus",
+        "englishWord": "Bus",
+        "tamilWord": "பேருந்து",
+        "tamilRomanization": "perunthu",
+        "chineseWord": "公交车",
+        "chinesePinyin": "1gong 1jiao 1che",
+        "category": "vehicle"
+    },
+    {
+        "imageKey": "train",
+        "englishWord": "Train",
+        "tamilWord": "ரயில்",
+        "tamilRomanization": "rayil",
+        "chineseWord": "火车",
+        "chinesePinyin": "3huo 1che",
+        "category": "vehicle"
+    },
+    {
+        "imageKey": "bicycle",
+        "englishWord": "Bicycle",
+        "tamilWord": "மிதிவண்டி",
+        "tamilRomanization": "mithivandi",
+        "chineseWord": "自行车",
+        "chinesePinyin": "4zi 2xing 1che",
+        "category": "vehicle"
+    },
+    {
+        "imageKey": "motorcycle",
+        "englishWord": "Motorcycle",
+        "tamilWord": "மோட்டார் சைக்கிள்",
+        "tamilRomanization": "mottaar saikkil",
+        "chineseWord": "摩托车",
+        "chinesePinyin": "2mo 1tuo 1che",
+        "category": "vehicle"
+    },
+    {
+        "imageKey": "airplane",
+        "englishWord": "Airplane",
+        "tamilWord": "விமானம்",
+        "tamilRomanization": "vimaanam",
+        "chineseWord": "飞机",
+        "chinesePinyin": "1fei 1ji",
+        "category": "vehicle"
+    },
+    {
+        "imageKey": "helicopter",
+        "englishWord": "Helicopter",
+        "tamilWord": "ஹெலிகாப்டர்",
+        "tamilRomanization": "helikaaptar",
+        "chineseWord": "直升机",
+        "chinesePinyin": "2zhi 1sheng 1ji",
+        "category": "vehicle"
+    },
+    {
+        "imageKey": "boat",
+        "englishWord": "Boat",
+        "tamilWord": "படகு",
+        "tamilRomanization": "padagu",
+        "chineseWord": "船",
+        "chinesePinyin": "2chuan",
+        "category": "vehicle"
+    },
+    {
+        "imageKey": "truck",
+        "englishWord": "Truck",
+        "tamilWord": "லாரி",
+        "tamilRomanization": "laari",
+        "chineseWord": "卡车",
+        "chinesePinyin": "3ka 1che",
+        "category": "vehicle"
+    },
+    {
+        "imageKey": "ambulance",
+        "englishWord": "Ambulance",
+        "tamilWord": "ஆம்புலன்ஸ்",
+        "tamilRomanization": "aambulans",
+        "chineseWord": "救护车",
+        "chinesePinyin": "4jiu 4hu 1che",
+        "category": "vehicle"
+    },
+    {
+        "imageKey": "van",
+        "englishWord": "Van",
+        "tamilWord": "வேன்",
+        "tamilRomanization": "ven",
+        "chineseWord": "面包车",
+        "chinesePinyin": "4mian 1bao 1che",
+        "category": "vehicle"
+    },
+    {
+        "imageKey": "taxi",
+        "englishWord": "Taxi",
+        "tamilWord": "டாக்சி",
+        "tamilRomanization": "taaksi",
+        "chineseWord": "出租车",
+        "chinesePinyin": "1chu 1zu 1che",
+        "category": "vehicle"
+    },
+    {
+        "imageKey": "scooter",
+        "englishWord": "Scooter",
+        "tamilWord": "ஸ்கூட்டர்",
+        "tamilRomanization": "scooter",
+        "chineseWord": "电动车",
+        "chinesePinyin": "4dian 4dong 1che",
+        "category": "vehicle"
+    },
+    {
+        "imageKey": "fire-truck",
+        "englishWord": "Fire Truck",
+        "tamilWord": "தீயணைப்பு வண்டி",
+        "tamilRomanization": "theeyanaippu vandi",
+        "chineseWord": "消防车",
+        "chinesePinyin": "1xiao 2fang 1che",
+        "category": "vehicle"
+    },
+    {
+        "imageKey": "police-car",
+        "englishWord": "Police Car",
+        "tamilWord": "காவல் துறை கார்",
+        "tamilRomanization": "kaaval thurai kaar",
+        "chineseWord": "警车",
+        "chinesePinyin": "3jing 1che",
+        "category": "vehicle"
+    },
+    {
+        "imageKey": "excavator",
+        "englishWord": "Excavator",
+        "tamilWord": "தோண்டும் இயந்திரம்",
+        "tamilRomanization": "thoondum iyanthiram",
+        "chineseWord": "挖掘机",
+        "chinesePinyin": "1wa 2jue 1ji",
+        "category": "vehicle"
+    },
+    {
+        "imageKey": "forklift",
+        "englishWord": "Forklift",
+        "tamilWord": "ஃபோர்க்லிஃப்ட்",
+        "tamilRomanization": "forklift",
+        "chineseWord": "叉车",
+        "chinesePinyin": "1cha 1che",
+        "category": "vehicle"
+    },
+    {
+        "imageKey": "chair",
+        "englishWord": "Chair",
+        "tamilWord": "நாற்காலி",
+        "tamilRomanization": "naarkaali",
+        "chineseWord": "椅子",
+        "chinesePinyin": "3yi 5zi",
+        "category": "household"
+    },
+    {
+        "imageKey": "table",
+        "englishWord": "Table",
+        "tamilWord": "மேசை",
+        "tamilRomanization": "mesai",
+        "chineseWord": "桌子",
+        "chinesePinyin": "1zhuo 5zi",
+        "category": "household"
+    },
+    {
+        "imageKey": "bed",
+        "englishWord": "Bed",
+        "tamilWord": "படுக்கை",
+        "tamilRomanization": "padukkai",
+        "chineseWord": "床",
+        "chinesePinyin": "2chuang",
+        "category": "household"
+    },
+    {
+        "imageKey": "pillow",
+        "englishWord": "Pillow",
+        "tamilWord": "தலையணை",
+        "tamilRomanization": "thalaiyanai",
+        "chineseWord": "枕头",
+        "chinesePinyin": "3zhen 2tou",
+        "category": "household"
+    },
+    {
+        "imageKey": "fan",
+        "englishWord": "Fan",
+        "tamilWord": "மின்விசிறி",
+        "tamilRomanization": "minvisiri",
+        "chineseWord": "风扇",
+        "chinesePinyin": "1feng 4shan",
+        "category": "household"
+    },
+    {
+        "imageKey": "light",
+        "englishWord": "Light",
+        "tamilWord": "விளக்கு",
+        "tamilRomanization": "vilakku",
+        "chineseWord": "灯",
+        "chinesePinyin": "1deng",
+        "category": "household"
+    },
+    {
+        "imageKey": "door",
+        "englishWord": "Door",
+        "tamilWord": "கதவு",
+        "tamilRomanization": "kathavu",
+        "chineseWord": "门",
+        "chinesePinyin": "2men",
+        "category": "household"
+    },
+    {
+        "imageKey": "window",
+        "englishWord": "Window",
+        "tamilWord": "ஜன்னல்",
+        "tamilRomanization": "jannal",
+        "chineseWord": "窗户",
+        "chinesePinyin": "1chuang 5hu",
+        "category": "household"
+    },
+    {
+        "imageKey": "spoon",
+        "englishWord": "Spoon",
+        "tamilWord": "கரண்டி",
+        "tamilRomanization": "karandi",
+        "chineseWord": "勺子",
+        "chinesePinyin": "2shao 5zi",
+        "category": "utensil"
+    },
+    {
+        "imageKey": "cup",
+        "englishWord": "Cup",
+        "tamilWord": "கோப்பை",
+        "tamilRomanization": "koppai",
+        "chineseWord": "杯子",
+        "chinesePinyin": "1bei 5zi",
+        "category": "utensil"
+    },
+    {
+        "imageKey": "refrigerator",
+        "englishWord": "Refrigerator",
+        "tamilWord": "குளிர்சாதன பெட்டி",
+        "tamilRomanization": "kulirsaadhana petti",
+        "chineseWord": "冰箱",
+        "chinesePinyin": "1bing 1xiang",
+        "category": "household"
+    },
+    {
+        "imageKey": "television",
+        "englishWord": "Television",
+        "tamilWord": "தொலைக்காட்சி",
+        "tamilRomanization": "tholaikkaatchi",
+        "chineseWord": "电视",
+        "chinesePinyin": "4dian 4shi",
+        "category": "household"
+    },
+    {
+        "imageKey": "sofa",
+        "englishWord": "Sofa",
+        "tamilWord": "சோபா",
+        "tamilRomanization": "sofa",
+        "chineseWord": "沙发",
+        "chinesePinyin": "1sha 1fa",
+        "category": "household"
+    },
+    {
+        "imageKey": "clock",
+        "englishWord": "Clock",
+        "tamilWord": "கடிகாரம்",
+        "tamilRomanization": "kadigaaram",
+        "chineseWord": "时钟",
+        "chinesePinyin": "2shi 1zhong",
+        "category": "household"
+    },
+    {
+        "imageKey": "mirror",
+        "englishWord": "Mirror",
+        "tamilWord": "கண்ணாடி",
+        "tamilRomanization": "kannaadi",
+        "chineseWord": "镜子",
+        "chinesePinyin": "4jing 5zi",
+        "category": "household"
+    },
+    {
+        "imageKey": "lamp",
+        "englishWord": "Lamp",
+        "tamilWord": "மேசை விளக்கு",
+        "tamilRomanization": "mesai vilakku",
+        "chineseWord": "台灯",
+        "chinesePinyin": "2tai 1deng",
+        "category": "household"
+    },
+    {
+        "imageKey": "plate",
+        "englishWord": "Plate",
+        "tamilWord": "தட்டு",
+        "tamilRomanization": "thattu",
+        "chineseWord": "盘子",
+        "chinesePinyin": "2pan 5zi",
+        "category": "utensil"
+    },
+    {
+        "imageKey": "fork",
+        "englishWord": "Fork",
+        "tamilWord": "முள்கரண்டி",
+        "tamilRomanization": "mulkarandi",
+        "chineseWord": "叉子",
+        "chinesePinyin": "1cha 5zi",
+        "category": "utensil"
+    },
+    {
+        "imageKey": "knife",
+        "englishWord": "Knife",
+        "tamilWord": "கத்தி",
+        "tamilRomanization": "kathi",
+        "chineseWord": "刀",
+        "chinesePinyin": "1dao",
+        "category": "utensil"
+    },
+    {
+        "imageKey": "toothbrush",
+        "englishWord": "Toothbrush",
+        "tamilWord": "பல் துலக்கி",
+        "tamilRomanization": "pal thulakki",
+        "chineseWord": "牙刷",
+        "chinesePinyin": "2ya 1shua",
+        "category": "toiletries"
+    },
+    {
+        "imageKey": "eye",
+        "englishWord": "Eye",
+        "tamilWord": "கண்",
+        "tamilRomanization": "kan",
+        "chineseWord": "眼睛",
+        "chinesePinyin": "3yan 1jing",
+        "category": "body"
+    },
+    {
+        "imageKey": "ear",
+        "englishWord": "Ear",
+        "tamilWord": "காது",
+        "tamilRomanization": "kaadhu",
+        "chineseWord": "耳朵",
+        "chinesePinyin": "3er 5duo",
+        "category": "body"
+    },
+    {
+        "imageKey": "nose",
+        "englishWord": "Nose",
+        "tamilWord": "மூக்கு",
+        "tamilRomanization": "mookku",
+        "chineseWord": "鼻子",
+        "chinesePinyin": "2bi 5zi",
+        "category": "body"
+    },
+    {
+        "imageKey": "mouth",
+        "englishWord": "Mouth",
+        "tamilWord": "வாய்",
+        "tamilRomanization": "vaai",
+        "chineseWord": "嘴巴",
+        "chinesePinyin": "3zui 5ba",
+        "category": "body"
+    },
+    {
+        "imageKey": "hand",
+        "englishWord": "Hand",
+        "tamilWord": "கை",
+        "tamilRomanization": "kai",
+        "chineseWord": "手",
+        "chinesePinyin": "3shou",
+        "category": "body"
+    },
+    {
+        "imageKey": "leg",
+        "englishWord": "Leg",
+        "tamilWord": "கால்",
+        "tamilRomanization": "kaal",
+        "chineseWord": "腿",
+        "chinesePinyin": "3tui",
+        "category": "body"
+    },
+    {
+        "imageKey": "dog",
+        "englishWord": "Dog",
+        "tamilWord": "நாய்",
+        "tamilRomanization": "naai",
+        "chineseWord": "狗",
+        "chinesePinyin": "3gou",
+        "category": "animal"
+    },
+    {
+        "imageKey": "cat",
+        "englishWord": "Cat",
+        "tamilWord": "பூனை",
+        "tamilRomanization": "poonai",
+        "chineseWord": "猫",
+        "chinesePinyin": "1mao",
+        "category": "animal"
+    },
+    {
+        "imageKey": "elephant",
+        "englishWord": "Elephant",
+        "tamilWord": "யானை",
+        "tamilRomanization": "yaanai",
+        "chineseWord": "大象",
+        "chinesePinyin": "4da 4xiang",
+        "category": "animal"
+    },
+    {
+        "imageKey": "lion",
+        "englishWord": "Lion",
+        "tamilWord": "சிங்கம்",
+        "tamilRomanization": "singam",
+        "chineseWord": "狮子",
+        "chinesePinyin": "1shi 5zi",
+        "category": "animal"
+    },
+    {
+        "imageKey": "tiger",
+        "englishWord": "Tiger",
+        "tamilWord": "புலி",
+        "tamilRomanization": "puli",
+        "chineseWord": "老虎",
+        "chinesePinyin": "3lao 3hu",
+        "category": "animal"
+    },
+    {
+        "imageKey": "monkey",
+        "englishWord": "Monkey",
+        "tamilWord": "குரங்கு",
+        "tamilRomanization": "kurangu",
+        "chineseWord": "猴子",
+        "chinesePinyin": "2hou 5zi",
+        "category": "animal"
+    },
+    {
+        "imageKey": "rabbit",
+        "englishWord": "Rabbit",
+        "tamilWord": "முயல்",
+        "tamilRomanization": "muyal",
+        "chineseWord": "兔子",
+        "chinesePinyin": "4tu 5zi",
+        "category": "animal"
+    },
+    {
+        "imageKey": "cow",
+        "englishWord": "Cow",
+        "tamilWord": "பசு",
+        "tamilRomanization": "pasu",
+        "chineseWord": "牛",
+        "chinesePinyin": "2niu",
+        "category": "animal"
+    },
+    {
+        "imageKey": "horse",
+        "englishWord": "Horse",
+        "tamilWord": "குதிரை",
+        "tamilRomanization": "kuthirai",
+        "chineseWord": "马",
+        "chinesePinyin": "3ma",
+        "category": "animal"
+    },
+    {
+        "imageKey": "bird",
+        "englishWord": "Bird",
+        "tamilWord": "பறவை",
+        "tamilRomanization": "paravai",
+        "chineseWord": "鸟",
+        "chinesePinyin": "3niao",
+        "category": "animal"
+    },
+    {
+        "imageKey": "sheep",
+        "englishWord": "Sheep",
+        "tamilWord": "செம்மறியாடு",
+        "tamilRomanization": "semmariyaadu",
+        "chineseWord": "羊",
+        "chinesePinyin": "2yang",
+        "category": "animal"
+    },
+    {
+        "imageKey": "goat",
+        "englishWord": "Goat",
+        "tamilWord": "ஆடு",
+        "tamilRomanization": "aadu",
+        "chineseWord": "山羊",
+        "chinesePinyin": "1shan 2yang",
+        "category": "animal"
+    },
+    {
+        "imageKey": "pig",
+        "englishWord": "Pig",
+        "tamilWord": "பன்றி",
+        "tamilRomanization": "pandri",
+        "chineseWord": "猪",
+        "chinesePinyin": "1zhu",
+        "category": "animal"
+    },
+    {
+        "imageKey": "duck",
+        "englishWord": "Duck",
+        "tamilWord": "வாத்து",
+        "tamilRomanization": "vaathu",
+        "chineseWord": "鸭子",
+        "chinesePinyin": "1ya 5zi",
+        "category": "animal"
+    },
+    {
+        "imageKey": "chicken",
+        "englishWord": "Chicken",
+        "tamilWord": "கோழி",
+        "tamilRomanization": "kozhi",
+        "chineseWord": "鸡",
+        "chinesePinyin": "1ji",
+        "category": "animal"
+    },
+    {
+        "imageKey": "fish",
+        "englishWord": "Fish",
+        "tamilWord": "மீன்",
+        "tamilRomanization": "meen",
+        "chineseWord": "鱼",
+        "chinesePinyin": "2yu",
+        "category": "animal"
+    },
+    {
+        "imageKey": "turtle",
+        "englishWord": "Turtle",
+        "tamilWord": "ஆமை",
+        "tamilRomanization": "aamai",
+        "chineseWord": "乌龟",
+        "chinesePinyin": "1wu 1gui",
+        "category": "animal"
+    },
+    {
+        "imageKey": "giraffe",
+        "englishWord": "Giraffe",
+        "tamilWord": "ஒட்டகச்சிவிங்கி",
+        "tamilRomanization": "ottagachchivingi",
+        "chineseWord": "长颈鹿",
+        "chinesePinyin": "2chang 3jing 4lu",
+        "category": "animal"
+    },
+    {
+        "imageKey": "zebra",
+        "englishWord": "Zebra",
+        "tamilWord": "வரிக்குதирை",
+        "tamilRomanization": "varikkuthirai",
+        "chineseWord": "斑马",
+        "chinesePinyin": "1ban 3ma",
+        "category": "animal"
+    },
+    {
+        "imageKey": "bear",
+        "englishWord": "Bear",
+        "tamilWord": "கரடி",
+        "tamilRomanization": "karadi",
+        "chineseWord": "熊",
+        "chinesePinyin": "2xiong",
+        "category": "animal"
+    }
+]
