@@ -84,24 +84,24 @@
 }
 
 .word.english {
-  font-size: clamp(36px, 8vw, 48px);
+  font-size: clamp(32px, 7.5vw, 40px);
   color: #0b3d2e;
 }
 
 .word.malay {
-  font-size: clamp(36px, 8vw, 48px);
+  font-size: clamp(32px, 7.5vw, 40px);
   color: #07456e;
 }
 
 .word.tamil {
   font-family: "Noto Sans Tamil", sans-serif;
-  font-size: clamp(30px, 6vw, 42px);
+  font-size: clamp(24px, 5vw, 36px);
   color: #8a3b25;
 }
 
 .word.chinese {
   font-family: "Noto Sans SC", sans-serif;
-  font-size: clamp(36px, 8vw, 48px);
+  font-size: clamp(32px, 7.5vw, 40px);
   color: #34214f;
 }
 
